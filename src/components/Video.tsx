@@ -1,8 +1,9 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export function Video({ coverImage, profileImage, nameChanel }: any) {
   return (
-    <div className="flex flex-col max-w-[276px] max-h-[155px] mr-4">
+    <Link href="/channel" className="flex flex-col max-w-[276px] max-h-[155px] mr-4">
       <Image src={coverImage} className="w-[276px] h-[155px]" alt="Cover Image" />
       <div className="flex flex-row">
         <div className="w-12 h-[74px] flex items-center">
@@ -18,6 +19,6 @@ export function Video({ coverImage, profileImage, nameChanel }: any) {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   )
 }

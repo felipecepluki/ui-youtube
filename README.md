@@ -17,8 +17,8 @@ I start the project using <a href="https://vitejs.dev/">Vite</a>. However, for t
 - [x] Create the Sidebar Component <br />
 - [x] Create the tags Component <br />
 - [x] Change the project to Next.js <br />
-- [ ] Create Videos Component <br />
-- [ ] Finish Home Page <br />
+- [x] Create Videos Component <br />
+- [x] Finish Home Page <br />
 - [ ] Finish Channel Page <br />
 - [ ] Finish Video Page <br />
 
