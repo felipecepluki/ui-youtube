@@ -137,43 +137,43 @@ export default function Sidebar() {
             Subscriptions
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileOne} alt="Profile Image One" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             James Gouse
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileTwo} alt="Profile Image Two" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Alan Cooper
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileThree} alt="Profile Image Three" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Marcus Levin
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileFour} alt="Profile Image Four" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Alexis Sears
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileFive} alt="Profile Image Five" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Jessica Lambert
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileSix} alt="Profile Image Six" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Ana White
           </p>
         </div>
-        <div className="flex flex-row px-6 py-2">
+        <div className="flex flex-row cursor-pointer px-6 py-2 hover:bg-[#303030] transition-all">
           <Image src={ProfileSeven} alt="Profile Image Seven" />
           <p className="font-roboto text-sm font-normal text-white pl-[10px]">
             Skylar Dias

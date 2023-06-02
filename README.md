@@ -10,17 +10,17 @@ I start the project using <a href="https://vitejs.dev/">Vite</a>. However, for t
 
 ## Tasks
 
-[ x ] Configure the project <br />
-[ x ] Create routes <br />
-[ x ] Create Search Bar
-[ x ] Create the Navigation Component <br />
-[ x ] Create the Sidebar Component <br />
-[ x ] Create the tags Component <br />
-[ x ] Change the project to Next.js <br />
-[] Create Videos Component <br />
-[] Finish Home Page <br />
-[] Finish Channel Page <br />
-[] Finish Video Page <br />
+- [x] Configure the project <br />
+- [x] Create routes <br />
+- [x] Create Search Bar
+- [x] Create the Navigation Component <br />
+- [x] Create the Sidebar Component <br />
+- [x] Create the tags Component <br />
+- [x] Change the project to Next.js <br />
+- [ ] Create Videos Component <br />
+- [ ] Finish Home Page <br />
+- [ ] Finish Channel Page <br />
+- [ ] Finish Video Page <br />
 
 **This project is only for study, its not comercial**      
 
